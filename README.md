@@ -14,6 +14,7 @@ friendlyarm_nanopi-r4se
 friendlyarm_nanopi-r5s
 firefly_station-p2
 hinlink_opc-h68k
+EMB-3531
 ```
 
 ### 下个计划添加设备：
