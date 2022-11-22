@@ -61,7 +61,7 @@ EMB-3531
 
 二次编译：
 ```bash
-cd lede
+cd lede-rockchip
 git pull
 ./scripts/feeds update -a && ./scripts/feeds install -a
 make defconfig
