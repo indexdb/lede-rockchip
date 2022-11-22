@@ -16,11 +16,6 @@ firefly_station-p2
 hinlink_opc-h68k
 EMB-3531
 ```
-
-### 下个计划添加设备：
-```
-embedfire_lubancat-zero-n
-```
 如何编译自己需要的 OpenWrt 固件
 -
 注意：
